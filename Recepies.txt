@@ -9,4 +9,7 @@ dosa
 chicken fry
 mutton
 
+pizza
+bean
+
 thank you
